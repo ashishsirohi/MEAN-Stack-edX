@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"mocha": "^2.2.4",
+		"mongodb": "2.2.30",
+		"underscore": "1.5.2"
+	}
+}
